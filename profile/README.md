@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 👋 We are "Port"
 
-<!--
+# Voilio ✨
+영상기반의 포트폴리오 웹서비스
 
-**Here are some ideas to get you started:**
+## BY
+| Name    | 정길연   |  강용민   | 김인철  |  백한결    |
+| ------- | -------| ---------| ----- | -------- | 
+| Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/52391627?v=4">    | <img width="200px" src="https://avatars.githubusercontent.com/u/84130518?v=4" />  | <img width="200px" src="https://avatars.githubusercontent.com/u/82080962?v=4"/>    | <img width="200px" src="https://avatars.githubusercontent.com/u/76465887?v=4"/>  |
+| Role    | Team Leader, Backend | Backend  | Backend   | Backend |
+| gitHub  | [gilyeon00](https://github.com/gilyeon00) | [goldapple-ce](https://github.com/goldapple-ce)   | [kimich1218](https://github.com/kimich1218)    |  [snake7667](https://github.com/snake7667) |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
