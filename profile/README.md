@@ -48,7 +48,7 @@
 ```
 
 ## 💻 System Architecture
-![아키텍처(1029ver)](https://github.com/techeer-sv/Voilio/assets/52391627/36732ad5-9f26-4515-9b3a-319e61976503)
+![아키텍처(1029ver)](https://github.com/techeer-sv/Voilio/assets/52391627/3984619a-677a-4ad3-a801-572317146fb6)
 
 
 ## 🚀 How to Start
